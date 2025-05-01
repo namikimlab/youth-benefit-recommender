@@ -72,4 +72,6 @@ streamlit run streamlit_app/app.py
  - Streamlit 배포 (Cloud / Hugging Face Spaces)
 
 
-🙋‍♀️ 개발자 @namikimlab
+---
+Made with 🧡 by Nami Kim
+[Blog](https://namixkim.com) | [GitHub](https://github.com/namikimlab) | [LinkedIn](https://linkedin.com/in/namixkim)
