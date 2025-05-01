@@ -1,0 +1,5 @@
+﻿policy_id,policy_name,min_age,max_age,income_ceiling,target_region,job_status,household_type,policy_url
+1,청년 월세 지원,19,34,260,전국,"무직,재직",독립가구,https://example.com/youth-rent
+2,청년 구직 지원금,18,34,300,전국,무직,무관,https://example.com/job-support
+3,경기도 청년기본소득,24,24,999,경기도,무관,무관,https://example.com/gyeonggi-youth
+4,청년 내일채움공제,19,34,400,전국,재직,무관,https://example.com/future-savings
