@@ -24,3 +24,6 @@ Thumbs.db
 
 # VSCode
 .vscode/
+
+# Internal
+_archive/
