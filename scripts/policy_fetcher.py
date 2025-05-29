@@ -35,11 +35,10 @@ def fetch_policies(page_limit=50, save_path="data/raw/fetched_policies.csv"):
             all_policies.extend(data)
             print(f"✅ Page {page}: {len(data)} policies fetched.")
             time.sleep(0.3)  # 살짝 대기: 과한 요청 방지
+
         except Exception as e:
             print(f"❌ Error on page {page}: {e}")
             break
-
-
 
     df = pd.DataFrame(all_policies)
     df.to_csv(save_path, index=False, encoding="utf-8-sig")
